@@ -1,1 +1,1 @@
-# Heart disease classification ai project
+# End to end heart disease classification ai project
